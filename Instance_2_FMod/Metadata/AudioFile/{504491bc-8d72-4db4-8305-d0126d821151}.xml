@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{504491bc-8d72-4db4-8305-d0126d821151}">
+		<property name="assetPath">
+			<value>blood_guts_spill.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.1700208333333335</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{93c5facb-db9b-41ab-94c0-9d7e42e52a98}</destination>
+		</relationship>
+	</object>
+</objects>
