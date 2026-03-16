@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{1519ad2e-5e13-4759-a2bf-40677c1950cd}">
+		<property name="assetPath">
+			<value>dark_element_stab.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.9472500000000004</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{93c5facb-db9b-41ab-94c0-9d7e42e52a98}</destination>
+		</relationship>
+	</object>
+</objects>
